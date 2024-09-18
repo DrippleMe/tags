@@ -1,0 +1,27 @@
+.custom-tags-settings {
+    padding: 10px;
+    background: #2f3136;
+    border-radius: 8px;
+    color: #ffffff;
+}
+
+.custom-tags-settings h1 {
+    margin-bottom: 10px;
+}
+
+.custom-tags-settings input {
+    margin-right: 5px;
+}
+
+.custom-tags-settings button {
+    background: #7289da;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-tags-settings button:hover {
+    background: #5b6eae;
+}
