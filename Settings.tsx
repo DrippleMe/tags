@@ -1,8 +1,13 @@
 import { Forms } from "@vendetta/ui/components";
-const { FormText } = Forms;
+const { FormText, FormItem, FormSection } = Forms;
 
 export default () => (
-    <FormText>
-        Hello, world!
-    </FormText>
-)
+    <FormSection title="Custom Tags Settings">
+        <FormItem>
+            <FormText>
+                Manage your custom tags here.
+            </FormText>
+        </FormItem>
+        {/* Add any additional form elements for settings configuration here */}
+    </FormSection>
+);
