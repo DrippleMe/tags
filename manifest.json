@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "Tags Plugin",
+    "description": "Testing plugin only for me.",
     "authors": [
         {
             "name": "Ivth.",
-            "id": "0/0"
+            "id": "963993136168849418"
         }
     ],
     "main": "src/index.ts",
